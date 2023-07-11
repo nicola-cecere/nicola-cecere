@@ -1,8 +1,8 @@
 ### Hi, I'm Nicola 👋
 
--📚 Currently enrolled in a double degree master's program in Computer Science and Engineering at Polimi🇮🇹 and UPM🇪🇸
--💬 Ask me anything!
--📫 How to reach me: cecere.nicola2000@gmail.com
+- 📚 Currently enrolled in a double degree master's program in Computer Science and Engineering at Polimi🇮🇹 and UPM🇪🇸
+- 💬 Ask me anything!
+- 📫 How to reach me: cecere.nicola2000@gmail.com
 
 ### Related socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicola-cecere-779185200/) 
