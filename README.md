@@ -1,6 +1,6 @@
 ### Hi, I'm Nicola 👋
 
-- 💼 Machine Learning Student Research - Politecnico di Milano - ContentWise - RecsysLab
+- 💼 Applied Scientist @Amazon
 - 📚 Currently enrolled in a double degree master's program in Computer Science and Engineering at Polimi🇮🇹 and UPM🇪🇸
 - 💬 Ask me anything!
 - 📫 How to reach me: cecere.nicola2000@gmail.com
