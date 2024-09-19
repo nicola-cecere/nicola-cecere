@@ -25,7 +25,7 @@
 ### Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicola-cecere&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![Nicola's Github stats](https://github-readme-stats.vercel.app/api?username=nicola-cecere&show_icons=true&theme=dark)](https://github.com/nicola-cecere)
+<!--[![Nicola's Github stats](https://github-readme-stats.vercel.app/api?username=nicola-cecere&show_icons=true&theme=dark)](https://github.com/nicola-cecere)
 
 <!--
 **nicola-cecere/nicola-cecere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
