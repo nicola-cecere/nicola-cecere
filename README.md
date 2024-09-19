@@ -1,8 +1,8 @@
 ### Hi, I'm Nicola 👋
 
-- 💼 Applied Scientist @Amazon
-- 📚 Currently enrolled in a double degree master's program in Computer Science and Engineering at Polimi🇮🇹 and UPM🇪🇸
-- 💬 Ask me anything!
+- 💼 Applied Scientist @Amazon - Machine Learning, Information Retrieval, Recommender Systems, NLP
+- 📍 Madrid, Spain
+- 📚 EIT Digital -> Polimi🇮🇹 and UPM🇪🇸
 - 📫 How to reach me: cecere.nicola2000@gmail.com
 
 ### Related socials:
