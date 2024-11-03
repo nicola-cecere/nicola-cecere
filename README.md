@@ -6,7 +6,7 @@
 - 📫 How to reach me: cecere.nicola2000@gmail.com
 
 ### Related socials:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicola-cecere-779185200/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicola-cecere1/)
 - [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=https://scholar.google.com/citations?hl=it&user=GNcIKT0AAAAJ)
 
 ### Main competences:
