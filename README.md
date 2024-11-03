@@ -2,7 +2,7 @@
 
 - 💼 Applied Scientist @Amazon - Machine Learning, Information Retrieval, Recommender Systems, NLP
 - 📍 Madrid, Spain
-- 📚 EIT Digital -> Polimi🇮🇹 and UPM🇪🇸
+- 📚 EIT Digital -> PoliMi🇮🇹 and UPM🇪🇸
 - 📫 How to reach me: cecere.nicola2000@gmail.com
 
 ### Related socials:
