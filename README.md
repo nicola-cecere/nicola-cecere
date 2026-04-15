@@ -1,7 +1,7 @@
 ### Hi, I'm Nicola 👋
 
 - 💼 Applied Scientist @Amazon - Machine Learning, Information Retrieval, Recommender Systems, NLP
-- 📍 Edinburgh, United Kingdom
+- 📍 Madrid, Spain
 - 📚 EIT Digital -> PoliMi🇮🇹 and UPM🇪🇸
 - 📫 How to reach me: cecere.nicola2000@gmail.com
 
