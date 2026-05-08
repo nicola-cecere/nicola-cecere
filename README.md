@@ -19,26 +19,3 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-
-### Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicola-cecere&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!--[![Nicola's Github stats](https://github-readme-stats.vercel.app/api?username=nicola-cecere&show_icons=true&theme=dark)](https://github.com/nicola-cecere)
-
-<!--
-**nicola-cecere/nicola-cecere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
